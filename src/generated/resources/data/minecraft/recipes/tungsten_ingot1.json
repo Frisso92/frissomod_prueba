@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "frissomod:tungsten_ore"
+  },
+  "result": "frissomod:tungsten_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

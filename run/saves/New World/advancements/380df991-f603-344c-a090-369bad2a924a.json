@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2022-09-26 21:45:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-09-26 21:45:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tutorialv3/tungsten_ingot1": {
+    "criteria": {
+      "has_ore": "2022-09-26 22:08:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tutorialv3/tungsten_ingot2": {
+    "criteria": {
+      "has_the_recipe": "2022-09-26 22:09:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2022-09-26 21:45:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2022-09-26 21:20:10 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

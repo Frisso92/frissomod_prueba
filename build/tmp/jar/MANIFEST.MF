@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: frissomod
+Specification-Vendor: Frisso92
+Specification-Version: 1
+Implementation-Title: frissomod
+Implementation-Version: 0.0.0.1
+Implementation-Vendor: Frisso92
+Implementation-Timestamp: 2022-09-25T19:12:56-0300
+
